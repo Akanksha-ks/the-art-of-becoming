@@ -2550,3 +2550,15 @@ html.film-scroll-up section.chapter-film.chapter-color-developing:not(.future-se
   transform: none !important;
   filter: none !important;
 }
+
+
+/* Film-frame navigation hint */
+.frame-hint {
+  color: #c6a875;
+  font-size: 0.82rem;
+  letter-spacing: 0.08em;
+  font-style: italic;
+  text-align: center;
+  margin: 0 0 18px;
+  opacity: 0.9;
+}
